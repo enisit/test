@@ -1,2 +1,5 @@
 # test
-testirane 
+
+
+
+Testiranje git huba i
